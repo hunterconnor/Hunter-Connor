@@ -1,5 +1,5 @@
 # Hunter-Connor
-I am currently enrolled in a Web Developer Bootcamp! Below is a description of some projects I have been working on during this online bootcamp. 
+I am currently enrolled in a Web Developer Bootcamp. Below is a description of some projects I have been working on during this online bootcamp. Follow my journey as I learn more about different full stack devleoper technologies and increase my knowledge and skill set! 
 
 front-end JS:
 
